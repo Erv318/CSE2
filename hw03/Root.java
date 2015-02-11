@@ -1,3 +1,6 @@
+//Evan Vomund
+// Displays cube root
+
 import java.util.Scanner;
 public class Root{
     public static void main(String[] args) {
